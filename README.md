@@ -10,7 +10,7 @@ This demo uses the built-in rigid body physics of Unity to create explosions tha
 Complete with adjustable explosion power and radius:
 ![Day night cycle Variables](https://github.com/JamesG4321/UnityDemos/blob/master/Images%20for%20documents/DemolitionVariables.png)
 
-To use it in your own project, use [explode.cs](https://github.com/JamesG4321/UnityDemos/Demolition/Assets/explode.cs) to your 'explosion' and adjust the detonate key/condition as needed.
+To use it in your own project, use [explode.cs](https://github.com/JamesG4321/UnityDemos/blob/master/Demolition/Assets/Scripts/explode.cs) to your 'explosion' and adjust the detonate key/condition as needed.
 
 #### Controls: 
 Space - Explode!
